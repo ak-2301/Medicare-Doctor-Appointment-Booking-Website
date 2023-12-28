@@ -283,8 +283,6 @@ const Home = () => {
           <Testimonials/>
         </div>
       </section>
-
-      {/****************FOOTER */}
    
 
     </>
